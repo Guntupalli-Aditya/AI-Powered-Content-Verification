@@ -25,7 +25,7 @@ AI-Powered Content Verification is a Streamlit-based web application that detect
 - Submit Feedback: Help improve the AI models by providing feedback.
 
 # Link for website
-https://ai-detectors.streamlit.app/
+https://adityag-ai-detectors.streamlit.app/
 
 # Screenshots
 ![Screenshot 2025-03-24 134349](https://github.com/user-attachments/assets/f3dbbff3-9cce-4514-b36f-8fb190db3f43)
